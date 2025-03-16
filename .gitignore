@@ -15,3 +15,8 @@ Thumbs.db
 
 # Ignore logs
 *.log
+
+# Ignore temp code runner files
+*.code-runner
+temp_*
+
